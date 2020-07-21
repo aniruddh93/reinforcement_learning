@@ -25,6 +25,7 @@ The following features are implemented:
 - Reports and plots Mean squared error between Monte-carlo and sarsa-lambda (as a function of lambda).
 
 Sample execution cmds:
+
        # Run Monte-carlo action value function update
        python3 rl_easy_21.py --num-episodes=100000 --policy=monte_carlo
 
