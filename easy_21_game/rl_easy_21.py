@@ -1,13 +1,6 @@
-##
+
 ## Easy21 RL Assignment
 ## Author: Aniruddh Ramrakhyani
-##
-## Implements : (i)   Easy 21 game simulation environment
-##              (ii)  Dealer Strategy
-##              (iii) Monte carlo action value function update
-##              (iv)  Sarsa-lambda action value function update
-##              (v)   Plotting functions and MSE for action value function
-##
 
 import matplotlib.pyplot as plt
 import numpy as np
